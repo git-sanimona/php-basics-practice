@@ -24,4 +24,4 @@ PHPで商品価格の計算プログラムを作成しました。
 
 ## 動作確認
 
-ブラウザで（http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php）にアクセスしました。
+ブラウザでアクセスして確認（http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php）
