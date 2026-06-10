@@ -67,6 +67,5 @@ $score = $score - 30;
 echo "ダメージ後: {$score}点<br>";
 //スコア　２倍アイテム使用
 $score = $score * 2;
-echo "最終スコア: {$score}点"
+echo "最終スコア: {$score}点";
 
-    ?>
